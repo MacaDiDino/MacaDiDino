@@ -1,9 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">¡Hola! 👋 Soy Macarena Di Dino</div>  
+# <div align="center">¡Hola! 👋 Soy Macarena Di Dino</div>  
   
 
 <br/>  

@@ -23,7 +23,7 @@ Actualmente estoy en búsqueda de oportunidades que me permitan ampliar mis cono
 ✔️Minuciosa con atención al detalle.
 
 ## ¿Qué tecnologías utilizo? 💻
-Durante el Bootcamp de Henry he podido utilizar herramientas claves como: 
+Durante mi formación he podido utilizar herramientas claves como: 
 * Google Sheets
 * SQL Server
 * Power BI

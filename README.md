@@ -8,7 +8,7 @@ Recientemente me convertí en Data Analytics. A lo largo de mi formación, he ad
 Actualmente estoy en búsqueda de oportunidades que me permitan ampliar mis conocimientos y perfeccionar mis habilidades en el análisis de datos. También, me dedico a realizar proyectos que me permitan avanzar en mi formación, me mantengo en constante aprendizaje capacitándome en diversas áreas de mi interes. 
 
 ## ¿Qué habilidades tengo?
-🔸Limpieza y maniúlación de datos.
+🔸Limpieza y manipulación de datos.
 🔸Creación de bases de datos.
 🔸Creación y análisis de métricas.
 🔸Análisis exploratorio.
@@ -23,7 +23,7 @@ Actualmente estoy en búsqueda de oportunidades que me permitan ampliar mis cono
 ✔️Minuciosa con atención al detalle.
 
 ## ¿Qué tecnologías utilizo? 💻
-Durante mi formación he podido utilizar herramientas claves como: 
+Durante mi formación he podido utilizar herramientas clave como: 
 * Google Sheets
 * SQL Server
 * Power BI

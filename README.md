@@ -5,7 +5,7 @@
 Recientemente me convertí en Data Analytics. A lo largo de mi formación, he adquirido sólidas habilidades en análisis descriptivo, limpieza/modelado de datos y visualización de información relevante. 📈📊 En mi formación además cuento con conocimientos avanzados en el área medioambiental. 🌎
 
 ## ¿Qué hago?👩‍💻
-Actualmente estoy en búsqueda de oportunidades que me permitan ampliar mis conocimientos y perfeccionar mis habilidades en el análisis de datos. También, me dedico a realizar proyectos que me permitan avanzar en mi formación profesional, me mantengo en constante aprendizaje capacitándome en diversas áreas de mi interes. 
+Actualmente estoy en búsqueda de oportunidades que me permitan ampliar mis conocimientos y perfeccionar mis habilidades en el análisis de datos. También, me dedico a realizar proyectos que me permitan avanzar en mi formación, me mantengo en constante aprendizaje capacitándome en diversas áreas de mi interes. 
 
 ## ¿Qué habilidades tengo?
 🔸Limpieza y maniúlación de datos.
